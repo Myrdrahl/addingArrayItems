@@ -6,7 +6,6 @@ let listOfItems = []
 
 function addItemsToArray () {
   listOfItems.push(input.value)
-  console.log(listOfItems)
 }
 
 function showArray () {
@@ -20,6 +19,6 @@ addButton.addEventListener('click', function () {
   addItemsToArray()
 })
 
-displayButton.addEventListener('click', function (){
+displayButton.addEventListener('click', function () {
   showArray()
 })
