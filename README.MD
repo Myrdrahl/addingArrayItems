@@ -1,0 +1,1 @@
+I started this small project to see if I was able to let the user input values into an array, and then display that array at will. 
